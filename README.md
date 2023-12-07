@@ -1,16 +1,18 @@
-### Hi there 👋
+# 소소한 재미를 즐기는 개발자
 
-<!--
-**SInjewo/SInjewo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+소속: 영남이공대학교
 
-Here are some ideas to get you started:
+학과: **소프트웨어콘텐츠과**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+관심분야: *프런트앤드, 백앤드, 웹사이트 제작*
+
+
+---
+**안녕하세요**
+### 깃허브 작성방법
+1. 원격정장소 만들기
+2. 지역 저장소 연결하기
+3. 커밋하기
+4. 푸시하기
+
+[영남이공대학교](https://ync.ac.kr/kor/intro.do)
