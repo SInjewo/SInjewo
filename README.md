@@ -17,4 +17,4 @@
 
 [영남이공대학교](https://ync.ac.kr/kor/intro.do)
 
-![프로필 이미지](./https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202306/25/488f9638-800c-4bac-ad65-82877fbff79b.jpg)
+![프로필 이미지](./고양이.jpg)
